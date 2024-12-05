@@ -1,0 +1,9 @@
+All programing langugages are built on syntax
+synax are the rukes followed when writing a programing
+A statement is an instruction that can be excecuted e.g age = 5
+keywords are gotten by import keyword
+then print keyword(keyword.kwlist)
+'False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 
+'break', 'class', 'continue', 'def', 'del', 'elif', 
+'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 
+'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield'

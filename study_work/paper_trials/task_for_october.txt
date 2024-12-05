@@ -1,0 +1,53 @@
+semantic errors are errors due to improper use of pogram statements
+logical error is an error due to the fact that  the specificaion is not respected
+a programming language is a formal system of notation used to write computer prgrams
+an algorithm is a set of rules that a computer must follw to perform a specific task
+a program is a set of instructions that a computer can execute to perform a specific task
+
+difference between logical and relational operators
+Relational operators compare values and return a boolean, true or false. They're the backbone of many conditional statements in programming:
+== checks if two values are equal.
+!= checks if two values are not equal.
+> and < check if one value is greater or less than another.
+>= and <= check if one value is greater than or equal to, or less than or equal to another.
+Logical operators, on the other hand, combine multiple boolean expressions and return a boolean:
+
+&& (AND) returns true if both conditions are true.
+
+|| (OR) returns true if at least one condition is true.
+
+! (NOT) inverts the truth value of the condition.
+
+
+Difference between keywords and identifiers
+Keywords are reserved words in a programming language that have a specific meaning and cannot be used as identifiers.
+Identifiers are names given to variables, functions, and other program elements.
+
+Difference between operators and symbols
+Operators are symbols used to perform operations on values, such as arithmetic, comparison, and logical operations. eg+, - ==
+Symbols are characters used to represent values, such as numbers, strings, and booleans.e.g [ for lists], #for comments etc
+
+Rules that must be followed when choosing a name of a pytho n identifier such as a variable
+The name of a variable should be a valid identifier in Python, which means it should follow these rules
+Shouldn't startt with a number
+Shouldn't contain any special characters except for underscores
+Shouldn't be a reserved keyword in Python
+
+Qn.. Write an if statement that assigns the value of x to the variable y only if x is between 1 and 20
+if 1<=x<=20:
+    y=x
+    
+
+QUESTION two
+What is the difference between a function and a method?
+A function is a block of code that can be called multiple times from different parts of a program,
+A method 
+
+wrting a program that accepts marks for four course units and calculates the average grade for a dtudent based on the following grading scale
+
+name = input( 'What is your name?')
+course1 = int(input(What marks did you get? ))
+course2 = int(input(What marks did you get?))
+course3 = int(input(What marks did you get?))
+course4 = int(input(What marks did you get?))
+if 

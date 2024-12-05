@@ -1,0 +1,25 @@
+['False', 'None', 'True', 'and', 'as', 'assert', 'async',
+ 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 
+ 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda',
+ 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+ first you import the keyword
+ then you use the methd keyword.kwlist
+ Keywords are reserved words in python that cannot be used as variable names,fxn names or any other identifier
+
+ VARIABLES
+ Variables in python are case sensitive
+ can only contain alpha-numeric xters and underscores
+ Must start with either an underscre or a letter 
+ Variable name can't start with a number
+
+ strings 
+ ""
+ when you initialise an input the following is automatically a string
+
+ float
+ decimal
+
+ integer     boolean(True or false(bool))  binary (bin) octal(oct) hexadecimal(hex)
+ number
+
